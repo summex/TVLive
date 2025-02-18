@@ -1,12 +1,2 @@
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 342ms
-Name: 贵州卫视, URL: http://218.13.170.98:9901/tsfile/live/1014_1.m3u8, Date: None, Resolution: None, Response Time: 493ms
-Name: 宁夏卫视, URL: http://218.13.170.98:9901/tsfile/live/0112_1.m3u8, Date: None, Resolution: None, Response Time: 501ms
-Name: 内蒙古卫视, URL: http://218.13.170.98:9901/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 502ms
-Name: 陕西卫视, URL: http://218.13.170.98:9901/tsfile/live/0136_1.m3u8, Date: None, Resolution: None, Response Time: 502ms
-Name: 天津卫视, URL: http://218.13.170.98:9901/tsfile/live/1008_1.m3u8, Date: None, Resolution: None, Response Time: 502ms
-Name: 三沙卫视, URL: http://61.138.128.226:19901/tsfile/live/1020_1.m3u8, Date: None, Resolution: None, Response Time: 599ms
-Name: CCTV-17, URL: http://xxw.me0.cn/api/migu.php?id=19, Date: None, Resolution: None, Response Time: 872ms
-Name: CCTV-12, URL: http://xxw.me0.cn/api/migu.php?id=15, Date: None, Resolution: None, Response Time: 874ms
-Name: 江西卫视, URL: http://xxw.me0.cn/api/migu.php?id=26, Date: None, Resolution: None, Response Time: 869ms
-Name: CCTV-11, URL: http://xxw.me0.cn/api/migu.php?id=14, Date: None, Resolution: None, Response Time: 877ms
-Name: 青海卫视, URL: http://stream.qhbtv.com/qhws/sd/live.m3u8, Date: None, Resolution: None, Response Time: 1331ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 22ms
+Name: 三沙卫视, URL: http://61.138.128.226:19901/tsfile/live/1020_1.m3u8, Date: None, Resolution: None, Response Time: 442ms
