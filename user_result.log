@@ -1,6 +1,7 @@
-Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 25ms
-Name: 内蒙古卫视, URL: http://218.13.170.98:9901/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 394ms
-Name: 陕西卫视, URL: http://218.13.170.98:9901/tsfile/live/0136_1.m3u8, Date: None, Resolution: None, Response Time: 399ms
-Name: 宁夏卫视, URL: http://218.13.170.98:9901/tsfile/live/0112_1.m3u8, Date: None, Resolution: None, Response Time: 401ms
-Name: 三沙卫视, URL: http://61.138.128.226:19901/tsfile/live/1020_1.m3u8, Date: None, Resolution: None, Response Time: 424ms
-Name: 吉林卫视, URL: http://majian.ixiaobai.net:58888/rtp/239.37.0.111:5540, Date: None, Resolution: None, Response Time: 1182ms
+Name: TVBS亚洲, URL: http://38.64.72.148/hls/modn/list/4005/playlist.m3u8, Date: None, Resolution: None, Response Time: 66ms
+Name: 三沙卫视, URL: http://61.138.128.226:19901/tsfile/live/1020_1.m3u8, Date: None, Resolution: None, Response Time: 478ms
+Name: ELEVEN体育, URL: https://ktpremium.com:443/K3939/6757/910890, Date: None, Resolution: None, Response Time: 798ms
+Name: 吉林卫视, URL: http://majian.ixiaobai.net:58888/rtp/239.37.0.111:5540, Date: None, Resolution: None, Response Time: 1114ms
+Name: 宁夏卫视, URL: http://218.13.170.98:9901/tsfile/live/0112_1.m3u8, Date: None, Resolution: None, Response Time: 3711ms
+Name: 陕西卫视, URL: http://218.13.170.98:9901/tsfile/live/0136_1.m3u8, Date: None, Resolution: None, Response Time: 3711ms
+Name: 内蒙古卫视, URL: http://218.13.170.98:9901/tsfile/live/0109_1.m3u8, Date: None, Resolution: None, Response Time: 3715ms
